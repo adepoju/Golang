@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"Users/dayoadepoju/Documents/Go/word_quote/quote"
-	"Users/dayoadepoju/Documents/Go/word_quote/word"
+	"github.com/adepoju/Golang/tree/master/word_quote/quote"
+	"github.com/adepoju/Golang/tree/master/word_quote/word"
 )
 
 func main() {
